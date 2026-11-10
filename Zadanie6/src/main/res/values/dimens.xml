@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="czcionka_powitanie">22sp</dimen>
+    <dimen name="czcionka_orientacja">18sp</dimen>
+    <dimen name="czcionka_liczba_losowa">140sp</dimen>
+    <dimen name="margines_gorny">30dp</dimen>
+</resources>

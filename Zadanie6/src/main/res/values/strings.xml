@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">zadanie5_0filipek</string>
+    <string name="welcome_text">Witaj w nowym świecie Androida!</string>
+    <string name="orientation_portrait">To jest tryb PIONOWY</string>
+    <string name="orientation_landscape">To jest tryb POZIOMY</string>
+</resources>

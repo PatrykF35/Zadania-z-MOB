@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@color/tlo_aplikacji"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/tvWelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_text"
+        android:textColor="@color/tekst_powitania"
+        android:textSize="@dimen/czcionka_powitanie"
+        android:layout_marginTop="@dimen/margines_gorny" />
+    <TextView
+        android:id="@+id/tvOrientation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/tekst_glowny"
+        android:textSize="@dimen/czcionka_orientacja"
+        android:layout_marginTop="10dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/tvRandomNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/tekst_losowa"
+            android:textSize="@dimen/czcionka_liczba_losowa" />
+    </LinearLayout>
+</LinearLayout>

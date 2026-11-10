@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_text">Welcome to the new Android world!</string>
+    <string name="orientation_portrait">This is PORTRAIT mode</string>
+    <string name="orientation_landscape">This is LANDSCAPE mode</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <color name="tlo_aplikacji">#121212</color>
+ <color name="tekst_powitania">#FFDC4C</color>
+ <color name="tekst_glowny">#FFFFFF</color>
+ <color name="tekst_losowa">#E68A00</color>
+</resources>
