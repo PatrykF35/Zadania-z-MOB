@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zaleznosci3Filipek</string>
+
+    <plurals name="iloscsztuk">
+        <item quantity="one">1 sztuka</item>
+        <item quantity="few">%d sztuki</item>
+        <item quantity="many">%d sztuk</item>
+        <item quantity="other">%d sztuk</item>
+    </plurals>
+</resources>
